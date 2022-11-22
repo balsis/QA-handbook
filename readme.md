@@ -47,15 +47,21 @@
 ](https://dou.ua/lenta/columns/testing-heuristics-mnemonics-2/?from=similar_posts) [статья]
  - [REST, что же ты такое? Понятное введение в технологию для ИТ-аналитиков
 ](https://habr.com/ru/post/590679/) [статья]
+ - [Архитектура и принципы REST. Что значит RESTful? Что такое SOAP? Какие проблемы решает GraphQL?
+](https://www.youtube.com/watch?v=we4NVJtY_4E) [youtube]
+
 ## HTTP 
+
  - [Руководство по HTTP для новичков
-](https://www.youtube.com/watch?v=iS-D5jZ_c24&t=4s) [youtube]
+](https://www.youtube.com/watch?v=iS-D5jZ_c24&t) [youtube]
  - [Как HTTP/2 сделает веб быстрее
 ](https://habr.com/ru/company/nix/blog/304518/) [статья📋]
  - [HTTP за 36 минут. Методы, статус-коды, заголовки, редиректы, SSL
-](https://www.youtube.com/watch?v=PpdQQjPS0MA&t=11s) [youtube]
-
-
+](https://www.youtube.com/watch?v=PpdQQjPS0MA&t) [youtube]
+ - [Cookie, local storage, session storage
+](https://www.youtube.com/watch?v=6OGVhOanIHs&t) [youtube]
+ - [Cache. Браузер кэш, Сервер кэш
+](https://www.youtube.com/watch?v=6OGVhOanIHs&t) [youtube]
 
 ## Тестирование баз данных 
  - [Тестирование баз данных
