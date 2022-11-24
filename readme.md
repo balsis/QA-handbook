@@ -49,6 +49,16 @@
 ](https://habr.com/ru/post/590679/) [статья]
  - [Архитектура и принципы REST. Что значит RESTful? Что такое SOAP? Какие проблемы решает GraphQL?
 ](https://www.youtube.com/watch?v=we4NVJtY_4E) [youtube]
+ - [Тестирование и документирование API-методов с помощью Postman
+](https://www.youtube.com/watch?v=0WPmRyqERgY&list=PLQGve2f3j-H2v5N59plAhHwnA5PwcMuVG) [youtube]
+
+
+## SOAP
+ - [Применение SOAP при интеграции систем
+](https://systems.education/soap-integration) [статья📋]
+
+ - [Зачем нам XSD, если мы работаем с SOAP
+](https://www.youtube.com/watch?v=RlHrfdzJwMM) [youtube]
 
 ## HTTP 
 
