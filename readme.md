@@ -52,13 +52,21 @@
  - [Тестирование и документирование API-методов с помощью Postman
 ](https://www.youtube.com/watch?v=0WPmRyqERgY&list=PLQGve2f3j-H2v5N59plAhHwnA5PwcMuVG) [youtube]
 
+ - [Курс по документированию REST API
+](https://starkovden.github.io/index.html) [статья📋]
 
-## SOAP
  - [Применение SOAP при интеграции систем
 ](https://systems.education/soap-integration) [статья📋]
 
  - [Зачем нам XSD, если мы работаем с SOAP
 ](https://www.youtube.com/watch?v=RlHrfdzJwMM) [youtube]
+
+ - [Soap VS Rest запросы на примерах
+](https://www.youtube.com/watch?v=C2TMZeRdLKw) [youtube]
+
+ - [Введение в SOAP и REST
+](hhttps://www.youtube.com/watch?v=2YWfJHDNQy0) [youtube]
+
 
 ## HTTP 
 
