@@ -38,8 +38,7 @@
 
  - [Брокеры сообщений, или Как происходит взаимодействие в рамках распределённой инфраструктуры](https://habr.com/ru/company/sberbank/blog/669456/) [статья📋]
 
-
-
+ - [Сервис-ориентированная архитектура (SOA)](https://habr.com/ru/company/vk/blog/342526/) [статья📋]
 ## REST API
 
 
@@ -59,28 +58,31 @@
 ](https://systems.education/soap-integration) [статья📋]
  - [Зачем нам XSD, если мы работаем с SOAP
 ](https://www.youtube.com/watch?v=RlHrfdzJwMM) [youtube📺]
-
  - [Soap VS Rest запросы на примерах
 ](https://www.youtube.com/watch?v=C2TMZeRdLKw) [youtube📺]
-
  - [Введение в SOAP и REST
 ](hhttps://www.youtube.com/watch?v=2YWfJHDNQy0) [youtube📺]
+ - [Курс по тестированию REST API
+](https://www.andreyolegovich.ru/qa/api_testing.php) [статья📋]
+ - [Грамотная клиент-серверная архитектура: как правильно проектировать и разрабатывать web API
+](https://tproger.ru/articles/web-api/) [статья📋]
 
 
 ## HTTP 
 
+
+ - [HTTP
+](https://ru.wikipedia.org/wiki/HTTP) [статья📋]
  - [Руководство по HTTP для новичков
 ](https://www.youtube.com/watch?v=iS-D5jZ_c24&t) [youtube📺]
  - [Как HTTP/2 сделает веб быстрее
 ](https://habr.com/ru/company/nix/blog/304518/) [статья📋]
  - [HTTP за 36 минут. Методы, статус-коды, заголовки, редиректы, SSL
 ](https://www.youtube.com/watch?v=PpdQQjPS0MA&t) [youtube📺]
- - [Cookie, local storage, session storage
-](https://www.youtube.com/watch?v=6OGVhOanIHs&t) [youtube📺]
- - [Cache. Браузер кэш, Сервер кэш
-](https://www.youtube.com/watch?v=6OGVhOanIHs&t) [youtube📺]
  - [Как HTTPS обеспечивает безопасность соединения: что должен знать каждый Web-разработчик
 ](https://habr.com/ru/post/188042/) [статья📋]
+
+## WebSocket
  - [WebSockets vs HTTP
 ](https://webformyself.com/websockets-vs-http/) [статья📋]
  - [Web сокеты 
@@ -89,6 +91,36 @@
 ](https://webformyself.com/znakomstvo-s-ajax-dlya-front-end-dizajnerov-osnovy-ajax/) [статья📋]
  - [WebSocket: особенности протокола и пример использования на React
 ](https://tproger.ru/articles/websocket-osobennosti-protokola-i-primer-ispolzovanija-na-react/) [статья📋]
+ - [Разница между WebSockets и Socket.IO](https://habr.com/ru/post/498996/) [статья📋]
+
+
+## Хранение данных на стороне клиента
+ - [Cookie, local storage, session storage
+](https://www.youtube.com/watch?v=6OGVhOanIHs&t) [youtube📺]
+ - [10 вариантов хранения данных на стороне клиента
+](https://webformyself.com/10-variantov-xraneniya-dannyx-na-storone-klienta/) [статья📋]
+ - [Руководство по различным типам хранилищ в браузере
+](https://webformyself.com/rukovodstvo-po-razlichnym-tipam-xranilishh-v-brauzere/) [статья📋]
+
+
+
+## Кэширование данных
+ - [Cache. Браузер кэш, Сервер кэш
+](https://www.youtube.com/watch?v=6OGVhOanIHs&t) [youtube📺]
+ - [Кэширование и производительность веб-приложений
+](https://habr.com/ru/company/ruvds/blog/350310/) [статья📋]
+ - [Веб-кэширование страниц на примере покупки молока в магазине
+](https://webformyself.com/veb-keshirovanie-stranic-primer/) [статья📋]
+ - [Обзор кэширования
+](https://aws.amazon.com/ru/caching/) [статья📋]
+ - [HTTP-кеширование. MDN
+](https://developer.mozilla.org/ru/docs/Web/HTTP/Caching) [статья📋]
+
+## Рендеринг
+ - [Рендеринг клиентский (CSR) vs рендеринг серверный (SSR) vs статический сайт (SSG)
+](https://webformyself.com/rendering-klientskij-csr-vs-rendering-servernyj-ssr-vs-staticheskij-sajt-ssg/) [статья📋]
+
+
 ## Тестирование баз данных 
  - [Тестирование баз данных
 ](https://www.youtube.com/watch?v=RTKYr-AJ3KQ&t=1900s) [youtube📺]
