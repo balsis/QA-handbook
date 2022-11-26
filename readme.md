@@ -1,6 +1,6 @@
 
 ## Основы компьютерных сетей
- - [А.Созыкин - Курс "Компьютерные сети"](https://www.youtube.com/watch?v=OLFA0soYGhw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1) [youtube📺]
+ - [А.Созыкин - Курс "Компьютерные сети"](https://www.youtube📺.com/watch?v=OLFA0soYGhw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1) [youtube📺]
 
  - [Основы компьютерных сетей. Тема №1. Основные сетевые термины и сетевые модели](https://habr.com/ru/post/307252/) [статья📋]
  - [Основы компьютерных сетей. Тема №2. Протоколы верхнего уровня](https://habrahabr.ru/post/307714/) [статья📋]
@@ -18,70 +18,78 @@
 
  - [Клиент-серверная архитектура в картинках
 ](https://habr.com/ru/post/495698/) [статья📋]
- - [Архитектура Клиент-сервер](https://www.youtube.com/watch?v=RBml4tRP500&t=1370s) [youtube📺]
+ - [Архитектура Клиент-сервер](https://www.youtube📺.com/watch?v=RBml4tRP500&t=1370s) [youtube📺]
 
- - [Знакомство со структурой клиент серверных приложений](https://www.youtube.com/watch?v=RL_aSbRzHFs) [youtube]
+ - [Знакомство со структурой клиент серверных приложений](https://www.youtube📺.com/watch?v=RL_aSbRzHFs) [youtube📺]
 
- - [Архитектура Web-приложений](https://www.youtube.com/watch?v=9mZmc6a0tmM&t=721s) [youtube]
+ - [Архитектура Web-приложений](https://www.youtube📺.com/watch?v=9mZmc6a0tmM&t=721s) [youtube📺]
  
 ## Микросервисная архитектура
- - [Просто о микросервисах](https://habr.com/ru/company/raiffeisenbank/blog/346380/) [статья]
- - [Сравнение микросервисной и монолитной архитектур](https://www.atlassian.com/ru/microservices/microservices-architecture/microservices-vs-monolith) [статья]
- - [Микросервисная архитектура, подходы и технологии](https://www.youtube.com/watch?v=FF-GZ7iipwc) [youtube]
+ - [Просто о микросервисах](https://habr.com/ru/company/raiffeisenbank/blog/346380/) [статья📋]
+ - [Сравнение микросервисной и монолитной архитектур](https://www.atlassian.com/ru/microservices/microservices-architecture/microservices-vs-monolith) [статья📋]
+ - [Микросервисная архитектура, подходы и технологии](https://www.youtube📺.com/watch?v=FF-GZ7iipwc) [youtube📺]
   - [Микросервисы VS Монолит. Какую архитектуру выбрать?
-](https://www.youtube.com/watch?v=PmIrrFqOfn8) [youtube]
+](https://www.youtube📺.com/watch?v=PmIrrFqOfn8) [youtube📺]
 
- - [26 основных паттернов микросервисной разработки](https://mcs.mail.ru/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki) [статья]
+ - [26 основных паттернов микросервисной разработки](https://mcs.mail.ru/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki) [статья📋]
  - [Что такое микросервисы. Основные принципы и паттерны
-](https://www.youtube.com/watch?v=uKtRSmO8ALk) [youtube]
- - [Отличие SOA от микросервисной архитектуры](https://microarch.ru/blog/soa-vs-msa) [статья]
+](https://www.youtube📺.com/watch?v=uKtRSmO8ALk) [youtube📺]
+ - [Отличие SOA от микросервисной архитектуры](https://microarch.ru/blog/soa-vs-msa) [статья📋]
 
- - [Брокеры сообщений, или Как происходит взаимодействие в рамках распределённой инфраструктуры](https://habr.com/ru/company/sberbank/blog/669456/) [статья]
+ - [Брокеры сообщений, или Как происходит взаимодействие в рамках распределённой инфраструктуры](https://habr.com/ru/company/sberbank/blog/669456/) [статья📋]
 
 
 
 ## REST API
- - [REST API Best Practices
-](https://habr.com/ru/post/351890/) [статья]
- - [Эвристики и мнемоники в тестировании: шаблоны для тестирования API
-](https://dou.ua/lenta/columns/testing-heuristics-mnemonics-2/?from=similar_posts) [статья]
- - [REST, что же ты такое? Понятное введение в технологию для ИТ-аналитиков
-](https://habr.com/ru/post/590679/) [статья]
- - [Архитектура и принципы REST. Что значит RESTful? Что такое SOAP? Какие проблемы решает GraphQL?
-](https://www.youtube.com/watch?v=we4NVJtY_4E) [youtube]
- - [Тестирование и документирование API-методов с помощью Postman
-](https://www.youtube.com/watch?v=0WPmRyqERgY&list=PLQGve2f3j-H2v5N59plAhHwnA5PwcMuVG) [youtube]
 
+
+  - [REST API Best Practices
+](https://habr.com/ru/post/351890/) [статья📋]
+ - [Эвристики и мнемоники в тестировании: шаблоны для тестирования API
+](https://dou.ua/lenta/columns/testing-heuristics-mnemonics-2/?from=similar_posts) [статья📋]
+ - [REST, что же ты такое? Понятное введение в технологию для ИТ-аналитиков
+](https://habr.com/ru/post/590679/) [статья📋]
+ - [Архитектура и принципы REST. Что значит RESTful? Что такое SOAP? Какие проблемы решает GraphQL?
+](https://www.youtube📺.com/watch?v=we4NVJtY_4E) [youtube📺]
+ - [Тестирование и документирование API-методов с помощью Postman
+](https://www.youtube📺.com/watch?v=0WPmRyqERgY&list=PLQGve2f3j-H2v5N59plAhHwnA5PwcMuVG) [youtube📺]
  - [Курс по документированию REST API
 ](https://starkovden.github.io/index.html) [статья📋]
-
  - [Применение SOAP при интеграции систем
 ](https://systems.education/soap-integration) [статья📋]
-
  - [Зачем нам XSD, если мы работаем с SOAP
-](https://www.youtube.com/watch?v=RlHrfdzJwMM) [youtube]
+](https://www.youtube📺.com/watch?v=RlHrfdzJwMM) [youtube📺]
 
  - [Soap VS Rest запросы на примерах
-](https://www.youtube.com/watch?v=C2TMZeRdLKw) [youtube]
+](https://www.youtube📺.com/watch?v=C2TMZeRdLKw) [youtube📺]
 
  - [Введение в SOAP и REST
-](hhttps://www.youtube.com/watch?v=2YWfJHDNQy0) [youtube]
+](hhttps://www.youtube📺.com/watch?v=2YWfJHDNQy0) [youtube📺]
 
 
 ## HTTP 
 
  - [Руководство по HTTP для новичков
-](https://www.youtube.com/watch?v=iS-D5jZ_c24&t) [youtube]
+](https://www.youtube📺.com/watch?v=iS-D5jZ_c24&t) [youtube📺]
  - [Как HTTP/2 сделает веб быстрее
 ](https://habr.com/ru/company/nix/blog/304518/) [статья📋]
  - [HTTP за 36 минут. Методы, статус-коды, заголовки, редиректы, SSL
-](https://www.youtube.com/watch?v=PpdQQjPS0MA&t) [youtube]
+](https://www.youtube📺.com/watch?v=PpdQQjPS0MA&t) [youtube📺]
  - [Cookie, local storage, session storage
-](https://www.youtube.com/watch?v=6OGVhOanIHs&t) [youtube]
+](https://www.youtube📺.com/watch?v=6OGVhOanIHs&t) [youtube📺]
  - [Cache. Браузер кэш, Сервер кэш
-](https://www.youtube.com/watch?v=6OGVhOanIHs&t) [youtube]
-
+](https://www.youtube📺.com/watch?v=6OGVhOanIHs&t) [youtube📺]
+ - [Как HTTPS обеспечивает безопасность соединения: что должен знать каждый Web-разработчик
+](https://habr.com/ru/post/188042/) [статья📋]
+ - [WebSockets vs HTTP
+](https://webformyself.com/websockets-vs-http/) [статья📋]
+ - [Web сокеты 
+](https://www.youtube📺.com/watch?v=TxVriqBkqbM&t=2s) [youtube📺]
+ - [Знакомство с AJAX
+](https://webformyself.com/znakomstvo-s-ajax-dlya-front-end-dizajnerov-osnovy-ajax/) [статья📋]
+ - [WebSocket: особенности протокола и пример использования на React
+](https://tproger.ru/articles/websocket-osobennosti-protokola-i-primer-ispolzovanija-na-react/) [статья📋]
 ## Тестирование баз данных 
  - [Тестирование баз данных
-](https://www.youtube.com/watch?v=RTKYr-AJ3KQ&t=1900s) [youtube]
+](https://www.youtube📺.com/watch?v=RTKYr-AJ3KQ&t=1900s) [youtube📺]
 
