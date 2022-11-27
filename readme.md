@@ -101,8 +101,14 @@
 ](https://webformyself.com/10-variantov-xraneniya-dannyx-na-storone-klienta/) [статья📋]
  - [Руководство по различным типам хранилищ в браузере
 ](https://webformyself.com/rukovodstvo-po-razlichnym-tipam-xranilishh-v-brauzere/) [статья📋]
-
-
+ - [Cookie и Google Tag Manager
+](https://osipenkov.ru/cookie-gtm/) [статья📋]
+ - [sessionStorage и localStorage
+](https://osipenkov.ru/localstorage-sessionstorage/) [статья📋]
+ - [Cookie vs LocalStorage vs SessionStorage
+](https://www.youtube.com/watch?v=pmd8D_YZ0BE) [youtube📺]
+ - [«Осторожно, печеньки!»: советы начинающим тестировщикам в сфере безопасности
+](https://habr.com/ru/company/redmadrobot/blog/544198/) [статья📋]
 
 ## Кэширование данных
  - [Cache. Браузер кэш, Сервер кэш
@@ -115,15 +121,29 @@
 ](https://aws.amazon.com/ru/caching/) [статья📋]
  - [HTTP-кеширование. MDN
 ](https://developer.mozilla.org/ru/docs/Web/HTTP/Caching) [статья📋]
+ - [Предотвращение ненужных сетевых запросов с помощью кэша HTTP
+](https://web.dev/i18n/ru/http-cache/) [статья📋]
+ - [Гид по заголовкам кэширования HTTP для начинающих
+](https://habr.com/ru/post/253121/) [статья📋]
 
-## Рендеринг
+
+
+
+## Рендеринг и DOM
+ - [DOM
+](https://doka.guide/js/dom/) [статья📋]
+
  - [Рендеринг клиентский (CSR) vs рендеринг серверный (SSR) vs статический сайт (SSG)
 ](https://webformyself.com/rendering-klientskij-csr-vs-rendering-servernyj-ssr-vs-staticheskij-sajt-ssg/) [статья📋]
 
+ - [Как браузер рисует страницы
+](https://doka.guide/js/how-the-browser-creates-pages/) [статья📋]
+
+ - [Процесс загрузки web страницы](https://www.youtube.com/watch?v=RTKYr-AJ3KQ&t=1900s) [youtube📺]
 
 ## Тестирование баз данных 
  - [Тестирование баз данных
-](https://www.youtube.com/watch?v=RTKYr-AJ3KQ&t=1900s) [youtube📺]
+](https://www.youtube.com/watch?v=jBvkN8_c7t8&t=654s) [youtube📺]
 
 ## Мобильное тестирование
 
