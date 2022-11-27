@@ -125,3 +125,14 @@
  - [Тестирование баз данных
 ](https://www.youtube.com/watch?v=RTKYr-AJ3KQ&t=1900s) [youtube📺]
 
+## Мобильное тестирование
+
+ - [Архитектура Android приложений
+](https://www.youtube.com/playlist?list=PLvItDmb0sZw8CjXIxOcj-mbn7ZCCnL3rd) [youtube📺]
+
+ - [Архитектура iOS
+](https://www.youtube.com/watch?v=PiUD2ep63Ws&list=PL8X2nqRlWfaZIPOPN-_bf0iYUDvZK8ZgS&index=1) [youtube📺]
+ - [Введение в мобильное тестирование
+](https://www.youtube.com/watch?v=s5wPHFjqOiE&t) [youtube📺]
+
+
