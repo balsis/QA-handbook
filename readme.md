@@ -73,6 +73,8 @@
 ](https://www.youtube.com/watch?v=PpdQQjPS0MA&t) [youtube📺]
  - [Как HTTPS обеспечивает безопасность соединения: что должен знать каждый Web-разработчик
 ](https://habr.com/ru/post/188042/) [статья📋]
+ - [Идеальная производительность протокола HTTP
+](https://habr.com/ru/company/infopulse/blog/282517/) [статья📋]
 
 ## WebSocket
  - [WebSockets vs HTTP
@@ -136,7 +138,10 @@
 
 ## Тестирование баз данных 
  - [Тестирование баз данных
-](https://www.youtube.com/watch?v=jBvkN8_c7t8&t=654s) [youtube📺]
+](https://www.youtube.com/watch?v=jBvkN8_c7t8&t) [youtube📺]
+
+## Техники тест-дизайна
+ - [Техники тест-дизайна: теория и примеры](https://testengineer.ru/tekhniki-test-dizajna-teoriya-i-primery/) [статья📋]
 
 ## Мобильное тестирование
 
@@ -144,5 +149,21 @@
 ](https://www.youtube.com/playlist?list=PLvItDmb0sZw8CjXIxOcj-mbn7ZCCnL3rd) [youtube📺]
  - [Архитектура iOS](https://www.youtube.com/watch?v=PiUD2ep63Ws&list=PL8X2nqRlWfaZIPOPN-_bf0iYUDvZK8ZgS&index=1) [youtube📺]
  - [Введение в мобильное тестирование](https://www.youtube.com/watch?v=s5wPHFjqOiE&t) [youtube📺]
+ - [Компоненты пользовательского интерфейса Android]( https://www.youtube.com/watch?v=llle9e4IPss) [youtube📺]
+ - [Основы Material Design]( https://www.youtube.com/watch?v=RkgkuacHkxI) [youtube📺]
+ - [32 отличия дизайна мобильного приложения под iOS и Android](https://habr.com/ru/company/redmadrobot/blog/491674/) [статья📋]
+  - [Как работает Android, часть 1](https://habr.com/ru/company/solarsecurity/blog/334796/) [статья📋]
+  - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/post/534190/) [статья📋]
+  - [Распространенные баги на iOS](https://telegra.ph/bagi-na-iOS-02-05) [статья📋]  
+  - [Распространенные баги на Android](https://telegra.ph/bagi-na-android-10-07) [статья📋]  
+  - [Реклама в мобильных приложениях](https://telegra.ph/Reklama-v-mobilnyh-prilozheniyah-10-24) [статья📋]   
+  - [Тестирование push-уведомлений в мобильных приложениях](https://habr.com/ru/company/youla/blog/553762/) [статья📋] 
+  - [Шпаргалка по тестированию требований к мобильным приложениям](https://habr.com/ru/company/mobileup/blog/336992/) [статья📋] 
+  - [Большой гайд по тестированию Android-приложений](https://testengineer.ru/bolshoj-gajd-po-testirovaniyu-android-prilozhenij/) [статья📋]
 
+## Разное
+  - [Респонсив или адаптив]( https://adindex.ru/publication/tools/2014/06/18/111597.phtml ) [статья📋]
+ 
 
+  
+    
