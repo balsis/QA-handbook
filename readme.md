@@ -58,6 +58,9 @@
 ](https://www.andreyolegovich.ru/qa/api_testing.php) [статья📋]
  - [Грамотная клиент-серверная архитектура: как правильно проектировать и разрабатывать web API
 ](https://tproger.ru/articles/web-api/) [статья📋]
+ - [Лучшие практики тестирования API
+](https://habr.com/ru/amp/post/670730/) [статья📋]
+
 
 
 ## HTTP 
@@ -144,9 +147,8 @@
  - [Техники тест-дизайна: теория и примеры](https://testengineer.ru/tekhniki-test-dizajna-teoriya-i-primery/) [статья📋]
 
 ## Мобильное тестирование
-
- - [Архитектура Android приложений
-](https://www.youtube.com/playlist?list=PLvItDmb0sZw8CjXIxOcj-mbn7ZCCnL3rd) [youtube📺]
+### Гайдлайны
+ - [Архитектура Android приложений](https://www.youtube.com/playlist?list=PLvItDmb0sZw8CjXIxOcj-mbn7ZCCnL3rd) [youtube📺]
  - [Архитектура iOS](https://www.youtube.com/watch?v=PiUD2ep63Ws&list=PL8X2nqRlWfaZIPOPN-_bf0iYUDvZK8ZgS&index=1) [youtube📺]
  - [Введение в мобильное тестирование](https://www.youtube.com/watch?v=s5wPHFjqOiE&t) [youtube📺]
  - [Компоненты пользовательского интерфейса Android]( https://www.youtube.com/watch?v=llle9e4IPss) [youtube📺]
@@ -161,6 +163,14 @@
   - [Шпаргалка по тестированию требований к мобильным приложениям](https://habr.com/ru/company/mobileup/blog/336992/) [статья📋] 
   - [Большой гайд по тестированию Android-приложений](https://testengineer.ru/bolshoj-gajd-po-testirovaniyu-android-prilozhenij/) [статья📋]
   - [Полные иллюстрированные гайдлайны по дизайну под iOS 15](https://ux.pub/editorial/polnyie-illiustrirovannyie-ghaidlainy-po-dizainu-pod-ios-13-4p7d) [статья📋]
+  - [Справочник жестов](http://miloskiy.com/spravochnik-zhestov-na-mobilnyh-ustrojstvah/) [статья📋]
+  - [Human Interface Guidelines iOS перевод](https://docs.google.com/document/d/1F9xptR4SS4knMlcYNKFL_CuQWKpGOxkzPtmuZnC7a3k/edit) [статья📋]
+ - [11 вещей про тестирование iOS приложений, о которых вы могли не задумываться]( https://www.youtube.com/watch?v=CTYNxeaUy4M) [youtube📺]
+  - [Архитектура Android-приложений. Часть I — истоки](https://habr.com/ru/post/140459/ ) [статья📋]
+  - [Мобильные приложения и их тестировщики: all you need to know](https://habr.com/ru/company/tdb/blog/337234/ ) [статья📋]
+### Android Studio 
+
+  - [Android Studio]( https://itigic.com/ru/testing-applications-with-android-studio-development-mode/ ) [статья📋]
 
 
 ## Разное
