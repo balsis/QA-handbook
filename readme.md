@@ -190,3 +190,8 @@
 ](https://dou.ua/forums/topic/35139/) [статья📋]
   - [Создание понятных отчетов о тестировании](https://habr.com/ru/company/performance_lab/blog/207512/) [статья📋]
   - [Требования к bug report](https://medium.com/@Pneumothorax/bug-report-f2860a4f5455) [статья📋]
+  - [Пользовательские истории - User Story]( https://www.youtube.com/watch?v=CfDw8EkgJto) [youtube📺]
+  - [Карта историй - User Story Mapping]( https://www.youtube.com/watch?v=Y65QBR0rUqk) [youtube📺]
+  - [Что такое сценарий использования (Use Case)]( https://www.youtube.com/watch?v=FDu21BV2w40) [youtube📺]
+  - [Use case или User story? Хватит выбирать - даешь все и сразу]( https://www.youtube.com/watch?v=KNsznqqcUgI) [youtube📺]
+  - [Нефункциональные требования. Как не упустить качество продукта]( https://www.youtube.com/watch?v=IEWlrZcqXCw) [youtube📺]
