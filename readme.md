@@ -165,7 +165,7 @@
  - [Техники тест-дизайна: теория и примеры](https://testengineer.ru/tekhniki-test-dizajna-teoriya-i-primery/) [статья📋]
 
 ## Мобильное тестирование
-### Гайдлайны
+
  - [Архитектура Android приложений](https://www.youtube.com/playlist?list=PLvItDmb0sZw8CjXIxOcj-mbn7ZCCnL3rd) [youtube📺]
  - [Архитектура iOS](https://www.youtube.com/watch?v=PiUD2ep63Ws&list=PL8X2nqRlWfaZIPOPN-_bf0iYUDvZK8ZgS&index=1) [youtube📺]
  - [Введение в мобильное тестирование](https://www.youtube.com/watch?v=s5wPHFjqOiE&t) [youtube📺]
@@ -187,7 +187,8 @@
   - [Архитектура Android-приложений. Часть I — истоки](https://habr.com/ru/post/140459/ ) [статья📋]
   - [Мобильные приложения и их тестировщики: all you need to know](https://habr.com/ru/company/tdb/blog/337234/ ) [статья📋]
  - [Дмитрий Макаренко — Тестирование платежей в Android-приложении]( https://www.youtube.com/watch?v=U9r-uOI7g3Q) [youtube📺]
- 
+  - [Нефункциональные проверки при тестировании мобильных приложений
+](https://habr.com/ru/company/sbermarket/blog/707280/ ) [статья📋]
 
 ### Android Studio 
 
