@@ -72,9 +72,6 @@
  - [Тестирование GraphQL: подходы, инструменты, автоматизация](https://habr.com/ru/company/lineate/blog/598149/) [статья📋]
 
 
-
-
-
 ## HTTP 
 
 
@@ -154,9 +151,11 @@
  - [Рендеринг клиентский (CSR) vs рендеринг серверный (SSR) vs статический сайт (SSG)](https://webformyself.com/rendering-klientskij-csr-vs-rendering-servernyj-ssr-vs-staticheskij-sajt-ssg/) [статья📋]
  - [Как браузер рисует страницы](https://doka.guide/js/how-the-browser-creates-pages/) [статья📋]
  - [Процесс загрузки web страницы](https://www.youtube.com/watch?v=RTKYr-AJ3KQ&t=1900s) [youtube📺]
+ - [Как работают браузеры](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work) [статья📋]
+ - [Критические этапы рендеринга](https://developer.mozilla.org/ru/docs/Web/Performance/Critical_rendering_path) [статья📋]
+
 
 ## Тестирование баз данных 
-
 
  - [Нормализация баз данных простыми словами
 ](https://info-comp.ru/database-normalization) [статья📋]
