@@ -169,9 +169,11 @@
 ](https://info-comp.ru/boyes-codd-normal-form) [статья📋]
  - [Четвертая нормальная форма (4NF) базы данных
 ](https://info-comp.ru/fourth-normal-form) [статья📋]
- - [Тестирование баз данных](https://www.youtube.com/watch?v=jBvkN8_c7t8&t) [youtube📺]
+ - [Тестирование баз данных](https://www.youtube.com/watch?v=RTKYr-AJ3KQ&t) [youtube📺]
+  - [Андрей Созыкин - курс "Основы SQL"](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT) [youtube📺]
  - [Базы данных: большой обзор типов и подходов. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/522164/) [статья📋]
-
+  - [Ilarion Halushka - SQL, Реляционные Базы Данных, DBeaver.](https://www.youtube.com/watch?v=_8Wjuj-0BXc&t) [youtube📺]
+  - [Ilarion Halushka - Базы Данных SQL/NoSQL.](https://www.youtube.com/watch?v=QI8kWWyshBM&t) [youtube📺]
 
 
 ## Техники тест-дизайна
