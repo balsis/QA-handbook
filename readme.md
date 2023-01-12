@@ -174,7 +174,8 @@
  - [Базы данных: большой обзор типов и подходов. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/522164/) [статья📋]
   - [Ilarion Halushka - SQL, Реляционные Базы Данных, DBeaver.](https://www.youtube.com/watch?v=_8Wjuj-0BXc&t) [youtube📺]
   - [Ilarion Halushka - Базы Данных SQL/NoSQL.](https://www.youtube.com/watch?v=QI8kWWyshBM&t) [youtube📺]
-
+  - [Ilarion Halushka - NoSQL, MongoDB, Нереляционные Базы Данных, Studio 3T.](https://www.youtube.com/watch?v=CbFsmqGb1OM&list=PLoZfdp36DZcrqz66EgT_QUBsB-6tT_WRa&index=3) [youtube📺]
+  - [NoSQL - коротко о главном / Сергей Туленцев (TextMaster)](https://www.youtube.com/watch?v=JG9Sgnj0xAI) [youtube📺]
 
 ## Техники тест-дизайна
  - [Техники тест-дизайна: теория и примеры](https://testengineer.ru/tekhniki-test-dizajna-teoriya-i-primery/) [статья📋]
