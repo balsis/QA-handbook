@@ -175,6 +175,9 @@
   - [Ilarion Halushka - Базы Данных SQL/NoSQL.](https://www.youtube.com/watch?v=QI8kWWyshBM&t) [youtube📺]
   - [Ilarion Halushka - NoSQL, MongoDB, Нереляционные Базы Данных, Studio 3T.](https://www.youtube.com/watch?v=CbFsmqGb1OM&list=PLoZfdp36DZcrqz66EgT_QUBsB-6tT_WRa&index=3) [youtube📺]
   - [NoSQL - коротко о главном / Сергей Туленцев (TextMaster)](https://www.youtube.com/watch?v=JG9Sgnj0xAI) [youtube📺]
+  - [SQL ДЛЯ НАЧИНАЮЩИХ. Все, что нужно знать в SQL для аналитики (основные SQL запросы)](https://www.youtube.com/watch?v=Zf8M3xJaMEc) [youtube📺]
+
+
 
 ## Техники тест-дизайна
  - [Техники тест-дизайна: теория и примеры](https://testengineer.ru/tekhniki-test-dizajna-teoriya-i-primery/) [статья📋]
