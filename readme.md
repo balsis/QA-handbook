@@ -279,3 +279,14 @@
  - [Как тестировать методы REST API
 ](https://habr.com/ru/post/704090/) [статья📋] 
  - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d) [статья📋] 
+
+## Инструменты 
+  ### Devtools
+ - [Как использовать Chrome DevTools при анализе сайта](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#7) [статья📋] 
+ - [Инструменты отладки в Chrome DevTools (Андрей Соколов, DINS)]( https://www.youtube.com/watch?v=zzkX1LQPddk) [youtube📺]
+  ### Postman
+
+   - [Что нужно знать про Postman: максимально коротко о Mock Servers, Flow и Visualize](https://habr.com/ru/company/rostelecom/blog/666766/) [статья📋] 
+   - [Введение в Postman](https://habr.com/ru/company/kolesa/blog/351250/) [статья📋] 
+
+  
