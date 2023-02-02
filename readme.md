@@ -193,31 +193,29 @@
  - [Компоненты пользовательского интерфейса Android]( https://www.youtube.com/watch?v=llle9e4IPss) [youtube📺]
  - [Основы Material Design]( https://www.youtube.com/watch?v=RkgkuacHkxI) [youtube📺]
  - [32 отличия дизайна мобильного приложения под iOS и Android](https://habr.com/ru/company/redmadrobot/blog/491674/) [статья📋]
-  - [Как работает Android, часть 1](https://habr.com/ru/company/solarsecurity/blog/334796/) [статья📋]
-  - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/post/534190/) [статья📋]
-  - [Распространенные баги на iOS](https://telegra.ph/bagi-na-iOS-02-05) [статья📋]  
-  - [Распространенные баги на Android](https://telegra.ph/bagi-na-android-10-07) [статья📋]  
-  - [Реклама в мобильных приложениях](https://telegra.ph/Reklama-v-mobilnyh-prilozheniyah-10-24) [статья📋]   
-  - [Тестирование push-уведомлений в мобильных приложениях](https://habr.com/ru/company/youla/blog/553762/) [статья📋] 
-  - [Шпаргалка по тестированию требований к мобильным приложениям](https://habr.com/ru/company/mobileup/blog/336992/) [статья📋] 
-  - [Большой гайд по тестированию Android-приложений](https://testengineer.ru/bolshoj-gajd-po-testirovaniyu-android-prilozhenij/) [статья📋]
-  - [Полные иллюстрированные гайдлайны по дизайну под iOS 15](https://ux.pub/editorial/polnyie-illiustrirovannyie-ghaidlainy-po-dizainu-pod-ios-13-4p7d) [статья📋]
-  - [Справочник жестов](http://miloskiy.com/spravochnik-zhestov-na-mobilnyh-ustrojstvah/) [статья📋]
-  - [Human Interface Guidelines iOS перевод](https://docs.google.com/document/d/1F9xptR4SS4knMlcYNKFL_CuQWKpGOxkzPtmuZnC7a3k/edit) [статья📋]
+ - [Как работает Android, часть 1](https://habr.com/ru/company/solarsecurity/blog/334796/) [статья📋]
+ - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/post/534190/) [статья📋]
+ - [Распространенные баги на iOS](https://telegra.ph/bagi-na-iOS-02-05) [статья📋]  
+ - [Распространенные баги на Android](https://telegra.ph/bagi-na-android-10-07) [статья📋]  
+ - [Реклама в мобильных приложениях](https://telegra.ph/Reklama-v-mobilnyh-prilozheniyah-10-24) [статья📋]   
+ - [Тестирование push-уведомлений в мобильных приложениях](https://habr.com/ru/company/youla/blog/553762/) [статья📋] 
+ - [Шпаргалка по тестированию требований к мобильным приложениям](https://habr.com/ru/company/mobileup/blog/336992/) [статья📋] 
+ - [Большой гайд по тестированию Android-приложений](https://testengineer.ru/bolshoj-gajd-po-testirovaniyu-android-prilozhenij/) [статья📋]
+ - [Полные иллюстрированные гайдлайны по дизайну под iOS 15](https://ux.pub/editorial/polnyie-illiustrirovannyie-ghaidlainy-po-dizainu-pod-ios-13-4p7d) [статья📋]
+ - [Справочник жестов](http://miloskiy.com/spravochnik-zhestov-na-mobilnyh-ustrojstvah/) [статья📋]
+ - [Human Interface Guidelines iOS перевод](https://docs.google.com/document/d/1F9xptR4SS4knMlcYNKFL_CuQWKpGOxkzPtmuZnC7a3k/edit) [статья📋]
  - [11 вещей про тестирование iOS приложений, о которых вы могли не задумываться]( https://www.youtube.com/watch?v=CTYNxeaUy4M) [youtube📺]
-  - [Архитектура Android-приложений. Часть I — истоки](https://habr.com/ru/post/140459/ ) [статья📋]
-  - [Мобильные приложения и их тестировщики: all you need to know](https://habr.com/ru/company/tdb/blog/337234/ ) [статья📋]
+ - [Архитектура Android-приложений. Часть I — истоки](https://habr.com/ru/post/140459/ ) [статья📋]
+ - [Мобильные приложения и их тестировщики: all you need to know](https://habr.com/ru/company/tdb/blog/337234/ ) [статья📋]
  - [Дмитрий Макаренко — Тестирование платежей в Android-приложении]( https://www.youtube.com/watch?v=U9r-uOI7g3Q) [youtube📺]
-  - [Нефункциональные проверки при тестировании мобильных приложений
-](https://habr.com/ru/company/sbermarket/blog/707280/ ) [статья📋]
-  - [Как провести эффективное тестирование мобильных приложений? Стратегия пятиуровневой пирамиды тестов
-](https://habr.com/ru/company/otus/blog/703146/ ) [статья📋]
+ - [Нефункциональные проверки при тестировании мобильных приложений](https://habr.com/ru/company/sbermarket/blog/707280/ ) [статья📋]
+ - [Как провести эффективное тестирование мобильных приложений? Стратегия пятиуровневой пирамиды тестов](https://habr.com/ru/company/otus/blog/703146/ ) [статья📋]
 
 
 
 ### Android Studio 
 
-  - [Android Studio]( https://itigic.com/ru/testing-applications-with-android-studio-development-mode/ ) [статья📋]
+
 
 
 ## Разное
@@ -271,11 +269,6 @@
   - [Работа тестировщика (не) сказка? Разбираем зоны ответственности QA-экспертов в командах без СМС и регистрации](https://habr.com/ru/company/itq_group/blog/702738/) [статья📋]
   - [Почему многим IT-компаниям не хватает качественного руководства в QA?](https://habr.com/ru/company/otus/blog/710506/) [статья📋]
 
-
-  ## CI / CD
-
-  - [Jenkins Pipeline. Что это и как использовать в тестировании](https://habr.com/ru/company/yoomoney/blog/538664/) [статья📋]
-
 ## Тестирование API 
  - [Лучшие практики тестирования API](https://habr.com/ru/amp/post/670730/) [статья📋]  
  - [Стратегия тестирования REST API: что именно вам нужно тестировать?](https://habr.com/ru/post/568360/) [статья📋]  
@@ -284,12 +277,26 @@
  - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d) [статья📋] 
 
 ## Инструменты 
-  ### Devtools
+  1. Jenkins
+ - [Jenkins Pipeline. Что это и как использовать в тестировании](https://habr.com/ru/company/yoomoney/blog/538664/) [статья📋]
+
+  2. Devtools
  - [Как использовать Chrome DevTools при анализе сайта](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#7) [статья📋] 
  - [Инструменты отладки в Chrome DevTools (Андрей Соколов, DINS)]( https://www.youtube.com/watch?v=zzkX1LQPddk) [youtube📺]
-  ### Postman
 
-   - [Что нужно знать про Postman: максимально коротко о Mock Servers, Flow и Visualize](https://habr.com/ru/company/rostelecom/blog/666766/) [статья📋] 
-   - [Введение в Postman](https://habr.com/ru/company/kolesa/blog/351250/) [статья📋] 
+  3. Postman
+ - [Что нужно знать про Postman: максимально коротко о Mock Servers, Flow и Visualize](https://habr.com/ru/company/rostelecom/blog/666766/) [статья📋] 
+ - [Введение в Postman](https://habr.com/ru/company/kolesa/blog/351250/) [статья📋] 
 
-  
+  4. Kafka
+ - [Про Kafka (основы)]( https://www.youtube.com/watch?v=-AZOi3kP9Js) [youtube📺]  
+ - [Apache Kafka урок 1. Зачем нужна, что это? RabbitMQ vs Kafka vs БД]( https://youtu.be/DvXPKUUl38w) [youtube📺]  
+ - [Apache Kafka основы Урок 2. Что такое broker, consumer, producer, topic, partition и т.д.]( https://youtu.be/i8ULypfr6kM) [youtube📺]   
+ - [Надежность Apache Kafka. Урок 3]( https://youtu.be/hY9WfVRVFPE) [youtube📺]  
+
+  5. Android Studio
+  - [Android Studio]( https://itigic.com/ru/testing-applications-with-android-studio-development-mode/ ) [статья📋] 
+
+  6. Charles Proxy
+  - [Чарльз Прокси для мобильных устройств]( https://teletype.in/@kkkktgkrgtrw/TTPZgy8RG ) [статья📋]   
+  - [Как использовать Charles]( https://trofimovdigital.ru/blog/how-to-use-charles ) [статья📋]   
