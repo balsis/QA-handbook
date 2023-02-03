@@ -10,16 +10,15 @@
  - [Основы компьютерных сетей. Тема №7. Протокол связующего дерева: STP](https://habr.com/ru/post/321132/) [статья📋]
 - [Основы компьютерных сетей. Тема №8. Протокол агрегирования каналов: Etherchannel](https://habr.com/ru/post/334778/) [статья📋]
 - [Основы компьютерных сетей. Тема №9. Маршрутизация: статическая и динамическая на примере RIP, OSPF и EIGRP](https://habr.com/ru/post/335090/) [статья📋]
+
 ## Клиент-серверная архитектура
 
- - [Основные архитектурные шаблоны построения ПО
-](https://habr.com/ru/company/ruvds/blog/699648/) [статья📋]
- - [Клиент-серверная архитектура в картинках
-](https://habr.com/ru/post/495698/) [статья📋]
+ - [Основные архитектурные шаблоны построения ПО](https://habr.com/ru/company/ruvds/blog/699648/) [статья📋]
+ - [Клиент-серверная архитектура в картинках](https://habr.com/ru/post/495698/) [статья📋]
  - [Архитектура Клиент-сервер](https://www.youtube.com/watch?v=RBml4tRP500&t=1370s) [youtube📺]
  - [Знакомство со структурой клиент серверных приложений](https://www.youtube.com/watch?v=RL_aSbRzHFs) [youtube📺]
  - [Архитектура Web-приложений](https://www.youtube.com/watch?v=9mZmc6a0tmM&t=721s) [youtube📺]
-  - [Архитектура ПО. Введение](https://www.youtube.com/watch?v=JXI2CsT2ZZQ) [youtube📺]
+ - [Архитектура ПО. Введение](https://www.youtube.com/watch?v=JXI2CsT2ZZQ) [youtube📺]
  - [Архитектура приложений и интеграции: гайд по основным понятиям простыми словами](https://habr.com/ru/company/itq_group/blog/705598/) [статья📋]
 
 
@@ -27,42 +26,29 @@
  - [Просто о микросервисах](https://habr.com/ru/company/raiffeisenbank/blog/346380/) [статья📋]
  - [Сравнение микросервисной и монолитной архитектур](https://www.atlassian.com/ru/microservices/microservices-architecture/microservices-vs-monolith) [статья📋]
  - [Микросервисная архитектура, подходы и технологии](https://www.youtube.com/watch?v=FF-GZ7iipwc) [youtube📺]
-  - [Микросервисы VS Монолит. Какую архитектуру выбрать?
-](https://www.youtube.com/watch?v=PmIrrFqOfn8) [youtube📺]
+ - [Микросервисы VS Монолит. Какую архитектуру выбрать?](https://www.youtube.com/watch?v=PmIrrFqOfn8) [youtube📺]
  - [26 основных паттернов микросервисной разработки](https://mcs.mail.ru/blog/26-osnovnyh-patternov-mikroservisnoj-razrabotki) [статья📋]
- - [Что такое микросервисы. Основные принципы и паттерны
-](https://www.youtube.com/watch?v=uKtRSmO8ALk) [youtube📺]
+ - [Что такое микросервисы. Основные принципы и паттерны](https://www.youtube.com/watch?v=uKtRSmO8ALk) [youtube📺]
  - [Отличие SOA от микросервисной архитектуры](https://microarch.ru/blog/soa-vs-msa) [статья📋]
  - [Брокеры сообщений, или Как происходит взаимодействие в рамках распределённой инфраструктуры](https://habr.com/ru/company/sberbank/blog/669456/) [статья📋]
  - [Сервис-ориентированная архитектура (SOA)](https://habr.com/ru/company/vk/blog/342526/) [статья📋]
+ - [Микросервисы: как определить, подойдут ли они вашему проекту](https://www.simbirsoft.com/blog/mikroservisy-nachalo-raboty/) [статья📋]
 
 
 ## REST API
-
-
-  - [REST API Best Practices
-](https://habr.com/ru/post/351890/) [статья📋]
- - [Эвристики и мнемоники в тестировании: шаблоны для тестирования API
-](https://dou.ua/lenta/columns/testing-heuristics-mnemonics-2/?from=similar_posts) [статья📋]
- - [REST, что же ты такое? Понятное введение в технологию для ИТ-аналитиков
-](https://habr.com/ru/post/590679/) [статья📋]
- - [Архитектура и принципы REST. Что значит RESTful? Что такое SOAP? Какие проблемы решает GraphQL?
-](https://www.youtube.com/watch?v=we4NVJtY_4E) [youtube📺]
- - [Тестирование и документирование API-методов с помощью Postman
-](https://www.youtube.com/watch?v=0WPmRyqERgY&list=PLQGve2f3j-H2v5N59plAhHwnA5PwcMuVG) [youtube📺]
- - [Курс по документированию REST API
-](https://starkovden.github.io/index.html) [статья📋]
- - [Применение SOAP при интеграции систем
-](https://systems.education/soap-integration) [статья📋]
- - [Зачем нам XSD, если мы работаем с SOAP
-](https://www.youtube.com/watch?v=RlHrfdzJwMM) [youtube📺]
- - [Soap VS Rest запросы на примерах
-](https://www.youtube.com/watch?v=C2TMZeRdLKw) [youtube📺]
+ - [Введение в API, мини-курс](https://systems.education/api-intro) [статья📋]
+ - [REST API Best Practices](https://habr.com/ru/post/351890/) [статья📋]
+ - [Эвристики и мнемоники в тестировании: шаблоны для тестирования API](https://dou.ua/lenta/columns/testing-heuristics-mnemonics-2/?from=similar_posts) [статья📋]
+ - [REST, что же ты такое? Понятное введение в технологию для ИТ-аналитиков](https://habr.com/ru/post/590679/) [статья📋]
+ - [Архитектура и принципы REST. Что значит RESTful? Что такое SOAP? Какие проблемы решает GraphQL?](https://www.youtube.com/watch?v=we4NVJtY_4E) [youtube📺]
+ - [Тестирование и документирование API-методов с помощью Postman](https://www.youtube.com/watch?v=0WPmRyqERgY&list=PLQGve2f3j-H2v5N59plAhHwnA5PwcMuVG) [youtube📺]
+ - [Курс по документированию REST API](https://starkovden.github.io/index.html) [статья📋]
+ - [Применение SOAP при интеграции систем](https://systems.education/soap-integration) [статья📋]
+ - [Зачем нам XSD, если мы работаем с SOAP](https://www.youtube.com/watch?v=RlHrfdzJwMM) [youtube📺]
+ - [Soap VS Rest запросы на примерах](https://www.youtube.com/watch?v=C2TMZeRdLKw) [youtube📺]
  - [Введение в SOAP и REST](https://www.youtube.com/watch?v=2YWfJHDNQy0) [youtube📺]
- - [Курс по тестированию REST API
-](https://www.andreyolegovich.ru/qa/api_testing.php) [статья📋]
- - [Грамотная клиент-серверная архитектура: как правильно проектировать и разрабатывать web API
-](https://tproger.ru/articles/web-api/) [статья📋]
+ - [Курс по тестированию REST API](https://www.andreyolegovich.ru/qa/api_testing.php) [статья📋]
+ - [Грамотная клиент-серверная архитектура: как правильно проектировать и разрабатывать web API](https://tproger.ru/articles/web-api/) [статья📋]
 
 
 ## GraphQL
@@ -73,74 +59,42 @@
 - [Как тестировать GraphQL API](https://lineate.ru/how-tests-graphql) [статья📋]
 
 
-
 ## HTTP 
 
-
- - [HTTP
-](https://ru.wikipedia.org/wiki/HTTP) [статья📋]
- - [Руководство по HTTP для новичков
-](https://www.youtube.com/watch?v=iS-D5jZ_c24&t) [youtube📺]
- - [Как HTTP/2 сделает веб быстрее
-](https://habr.com/ru/company/nix/blog/304518/) [статья📋]
- - [HTTP за 36 минут. Методы, статус-коды, заголовки, редиректы, SSL
-](https://www.youtube.com/watch?v=PpdQQjPS0MA&t) [youtube📺]
- - [Как HTTPS обеспечивает безопасность соединения: что должен знать каждый Web-разработчик
-](https://habr.com/ru/post/188042/) [статья📋]
- - [Идеальная производительность протокола HTTP
-](https://habr.com/ru/company/infopulse/blog/282517/) [статья📋]
+ - [HTTP](https://ru.wikipedia.org/wiki/HTTP) [статья📋]
+ - [Руководство по HTTP для новичков](https://www.youtube.com/watch?v=iS-D5jZ_c24&t) [youtube📺]
+ - [Как HTTP/2 сделает веб быстрее](https://habr.com/ru/company/nix/blog/304518/) [статья📋]
+ - [HTTP за 36 минут. Методы, статус-коды, заголовки, редиректы, SSL](https://www.youtube.com/watch?v=PpdQQjPS0MA&t) [youtube📺]
+ - [Как HTTPS обеспечивает безопасность соединения: что должен знать каждый Web-разработчик](https://habr.com/ru/post/188042/) [статья📋]
+ - [Идеальная производительность протокола HTTP](https://habr.com/ru/company/infopulse/blog/282517/) [статья📋]
 
 ## WebSocket
- - [WebSockets vs HTTP
-](https://webformyself.com/websockets-vs-http/) [статья📋]
- - [Web сокеты 
-](https://www.youtube.com/watch?v=TxVriqBkqbM&t=2s) [youtube📺]
- - [Знакомство с AJAX
-](https://webformyself.com/znakomstvo-s-ajax-dlya-front-end-dizajnerov-osnovy-ajax/) [статья📋]
- - [WebSocket: особенности протокола и пример использования на React
-](https://tproger.ru/articles/websocket-osobennosti-protokola-i-primer-ispolzovanija-na-react/) [статья📋]
+ - [WebSockets vs HTTP](https://webformyself.com/websockets-vs-http/) [статья📋]
+ - [Web сокеты](https://www.youtube.com/watch?v=TxVriqBkqbM&t=2s) [youtube📺]
+ - [Знакомство с AJAX](https://webformyself.com/znakomstvo-s-ajax-dlya-front-end-dizajnerov-osnovy-ajax/) [статья📋]
+ - [WebSocket: особенности протокола и пример использования на React](https://tproger.ru/articles/websocket-osobennosti-protokola-i-primer-ispolzovanija-na-react/) [статья📋]
  - [Разница между WebSockets и Socket.IO](https://habr.com/ru/post/498996/) [статья📋]
 
 
 ## Хранение данных на стороне клиента
- - [Cookie, local storage, session storage
-](https://www.youtube.com/watch?v=6OGVhOanIHs&t) [youtube📺]
- - [10 вариантов хранения данных на стороне клиента
-](https://webformyself.com/10-variantov-xraneniya-dannyx-na-storone-klienta/) [статья📋]
- - [Руководство по различным типам хранилищ в браузере
-](https://webformyself.com/rukovodstvo-po-razlichnym-tipam-xranilishh-v-brauzere/) [статья📋]
- - [Cookie и Google Tag Manager
-](https://osipenkov.ru/cookie-gtm/) [статья📋]
- - [sessionStorage и localStorage
-](https://osipenkov.ru/localstorage-sessionstorage/) [статья📋]
- - [Cookie vs LocalStorage vs SessionStorage
-](https://www.youtube.com/watch?v=pmd8D_YZ0BE) [youtube📺]
- - [«Осторожно, печеньки!»: советы начинающим тестировщикам в сфере безопасности
-](https://habr.com/ru/company/redmadrobot/blog/544198/) [статья📋]
- - [Локальное хранилище или куки? Безопасное хранение JWT на клиенте
-](https://habr.com/ru/company/ruvds/blog/512866/) [статья📋]
-
-
+ - [Cookie, local storage, session storage](https://www.youtube.com/watch?v=6OGVhOanIHs&t) [youtube📺]
+ - [10 вариантов хранения данных на стороне клиента](https://webformyself.com/10-variantov-xraneniya-dannyx-na-storone-klienta/) [статья📋]
+ - [Руководство по различным типам хранилищ в браузере](https://webformyself.com/rukovodstvo-po-razlichnym-tipam-xranilishh-v-brauzere/) [статья📋]
+ - [Cookie и Google Tag Manager](https://osipenkov.ru/cookie-gtm/) [статья📋]
+ - [sessionStorage и localStorage](https://osipenkov.ru/localstorage-sessionstorage/) [статья📋]
+ - [Cookie vs LocalStorage vs SessionStorage](https://www.youtube.com/watch?v=pmd8D_YZ0BE) [youtube📺]
+ - [«Осторожно, печеньки!»: советы начинающим тестировщикам в сфере безопасности](https://habr.com/ru/company/redmadrobot/blog/544198/) [статья📋]
+ - [Локальное хранилище или куки? Безопасное хранение JWT на клиенте](https://habr.com/ru/company/ruvds/blog/512866/) [статья📋]
 
 ## Кэширование данных
- - [Cache. Браузер кэш, Сервер кэш
-](https://www.youtube.com/watch?v=6OGVhOanIHs&t) [youtube📺]
- - [Кэширование и производительность веб-приложений
-](https://habr.com/ru/company/ruvds/blog/350310/) [статья📋]
- - [Веб-кэширование страниц на примере покупки молока в магазине
-](https://webformyself.com/veb-keshirovanie-stranic-primer/) [статья📋]
- - [Обзор кэширования
-](https://aws.amazon.com/ru/caching/) [статья📋]
- - [HTTP-кеширование. MDN
-](https://developer.mozilla.org/ru/docs/Web/HTTP/Caching) [статья📋]
- - [Предотвращение ненужных сетевых запросов с помощью кэша HTTP
-](https://web.dev/i18n/ru/http-cache/) [статья📋]
- - [Гид по заголовкам кэширования HTTP для начинающих
-](https://habr.com/ru/post/253121/) [статья📋]
- - [Кэширование сайта и кэш браузера
-](https://seoportal.net/baza/skorost-zagruzki/kesh-brauzera) [статья📋]
-
-
+ - [Cache. Браузер кэш, Сервер кэш](https://www.youtube.com/watch?v=6OGVhOanIHs&t) [youtube📺]
+ - [Кэширование и производительность веб-приложений](https://habr.com/ru/company/ruvds/blog/350310/) [статья📋]
+ - [Веб-кэширование страниц на примере покупки молока в магазине](https://webformyself.com/veb-keshirovanie-stranic-primer/) [статья📋]
+ - [Обзор кэширования](https://aws.amazon.com/ru/caching/) [статья📋]
+ - [HTTP-кеширование. MDN](https://developer.mozilla.org/ru/docs/Web/HTTP/Caching) [статья📋]
+ - [Предотвращение ненужных сетевых запросов с помощью кэша HTTP](https://web.dev/i18n/ru/http-cache/) [статья📋]
+ - [Гид по заголовкам кэширования HTTP для начинающих](https://habr.com/ru/post/253121/) [статья📋]
+ - [Кэширование сайта и кэш браузера](https://seoportal.net/baza/skorost-zagruzki/kesh-brauzera) [статья📋]
 
 ## Аутентификация и авторизация
  - [Локальное хранилище или куки? Безопасное хранение JWT на клиенте](https://habr.com/ru/company/ruvds/blog/512866/) [статья📋]
@@ -156,34 +110,28 @@
  - [Как работают браузеры](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work) [статья📋]
  - [Критические этапы рендеринга](https://developer.mozilla.org/ru/docs/Web/Performance/Critical_rendering_path) [статья📋]
 
-
 ## Тестирование баз данных 
 
- - [Нормализация баз данных простыми словами
-](https://info-comp.ru/database-normalization) [статья📋]
- - [Первая нормальная форма (1NF) базы данных
-](https://info-comp.ru/first-normal-form) [статья📋]
- - [Вторая нормальная форма (2NF) базы данных
-](https://info-comp.ru/second-normal-form) [статья📋]
- - [Третья нормальная форма (3NF) базы данных
-](https://info-comp.ru/third-normal-form) [статья📋]
- - [Нормальная форма Бойса-Кодда (BCNF)
-](https://info-comp.ru/boyes-codd-normal-form) [статья📋]
- - [Четвертая нормальная форма (4NF) базы данных
-](https://info-comp.ru/fourth-normal-form) [статья📋]
+ - [Нормализация баз данных простыми словами](https://info-comp.ru/database-normalization) [статья📋]
+ - [Первая нормальная форма (1NF) базы данных](https://info-comp.ru/first-normal-form) [статья📋]
+ - [Вторая нормальная форма (2NF) базы данных](https://info-comp.ru/second-normal-form) [статья📋]
+ - [Третья нормальная форма (3NF) базы данных](https://info-comp.ru/third-normal-form) [статья📋]
+ - [Нормальная форма Бойса-Кодда (BCNF)](https://info-comp.ru/boyes-codd-normal-form) [статья📋]
+ - [Четвертая нормальная форма (4NF) базы данных](https://info-comp.ru/fourth-normal-form) [статья📋]
  - [Тестирование баз данных](https://www.youtube.com/watch?v=RTKYr-AJ3KQ&t) [youtube📺]
-  - [Андрей Созыкин - курс "Основы SQL"](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT) [youtube📺]
+ - [Андрей Созыкин - курс "Основы SQL"](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT) [youtube📺]
  - [Базы данных: большой обзор типов и подходов. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/522164/) [статья📋]
-  - [Ilarion Halushka - SQL, Реляционные Базы Данных, DBeaver.](https://www.youtube.com/watch?v=_8Wjuj-0BXc&t) [youtube📺]
-  - [Ilarion Halushka - Базы Данных SQL/NoSQL.](https://www.youtube.com/watch?v=QI8kWWyshBM&t) [youtube📺]
-  - [Ilarion Halushka - NoSQL, MongoDB, Нереляционные Базы Данных, Studio 3T.](https://www.youtube.com/watch?v=CbFsmqGb1OM&list=PLoZfdp36DZcrqz66EgT_QUBsB-6tT_WRa&index=3) [youtube📺]
-  - [NoSQL - коротко о главном / Сергей Туленцев (TextMaster)](https://www.youtube.com/watch?v=JG9Sgnj0xAI) [youtube📺]
-  - [SQL ДЛЯ НАЧИНАЮЩИХ. Все, что нужно знать в SQL для аналитики (основные SQL запросы)](https://www.youtube.com/watch?v=Zf8M3xJaMEc) [youtube📺]
+ - [Ilarion Halushka - SQL, Реляционные Базы Данных, DBeaver.](https://www.youtube.com/watch?v=_8Wjuj-0BXc&t) [youtube📺]
+ - [Ilarion Halushka - Базы Данных SQL/NoSQL.](https://www.youtube.com/watch?v=QI8kWWyshBM&t) [youtube📺]
+ - [Ilarion Halushka - NoSQL, MongoDB, Нереляционные Базы Данных, Studio 3T.](https://www.youtube.com/watch?v=CbFsmqGb1OM&list=PLoZfdp36DZcrqz66EgT_QUBsB-6tT_WRa&index=3) [youtube📺]
+ - [NoSQL - коротко о главном / Сергей Туленцев (TextMaster)](https://www.youtube.com/watch?v=JG9Sgnj0xAI) [youtube📺]
+ - [SQL ДЛЯ НАЧИНАЮЩИХ. Все, что нужно знать в SQL для аналитики (основные SQL запросы)](https://www.youtube.com/watch?v=Zf8M3xJaMEc) [youtube📺]
 
 
 
 ## Техники тест-дизайна
  - [Техники тест-дизайна: теория и примеры](https://testengineer.ru/tekhniki-test-dizajna-teoriya-i-primery/) [статья📋]
+ - [Техники тест-дизайна и их предназначение](https://www.simbirsoft.com/blog/tekhniki-test-dizayna-i-ikh-prednaznachenie/) [статья📋]
 
 ## Мобильное тестирование
 
@@ -212,24 +160,17 @@
  - [Как провести эффективное тестирование мобильных приложений? Стратегия пятиуровневой пирамиды тестов](https://habr.com/ru/company/otus/blog/703146/ ) [статья📋]
 
 
-
-### Android Studio 
-
-
-
-
 ## Разное
   - [Респонсив или адаптив]( https://adindex.ru/publication/tools/2014/06/18/111597.phtml ) [статья📋]
- 
+  - [Программа самоподготовки младшего системного аналитика]( https://habr.com/ru/post/649435/ ) [статья📋]
+
 ## Тестовая документация 
   
   - [Как тестировать документацию. Простой алгоритм](https://habr.com/ru/post/595773/) [статья📋]    
   - [Что такое тестовая документация и зачем она нужна?](https://testengineer.ru/chto-takoe-testovaya-dokumentaciya-i-zachem-ona-nuzhna/) [статья📋]
   - [Тест-план и тест-стратегия: преимущества, состав, советы по ведению](https://dou.ua/forums/topic/35324/?from=fpcol) [статья📋]
-  - [Почему требования так важны для тестировщика
-](https://dou.ua/forums/topic/34549/) [статья📋]
-  - [Критерии качества требований и как им следовать
-](https://dou.ua/forums/topic/35139/) [статья📋]
+  - [Почему требования так важны для тестировщика](https://dou.ua/forums/topic/34549/) [статья📋]
+  - [Критерии качества требований и как им следовать](https://dou.ua/forums/topic/35139/) [статья📋]
   - [Создание понятных отчетов о тестировании](https://habr.com/ru/company/performance_lab/blog/207512/) [статья📋]
   - [Требования к bug report](https://medium.com/@Pneumothorax/bug-report-f2860a4f5455) [статья📋]
   - [Пользовательские истории - User Story]( https://www.youtube.com/watch?v=CfDw8EkgJto) [youtube📺]
@@ -237,6 +178,8 @@
   - [Что такое сценарий использования (Use Case)]( https://www.youtube.com/watch?v=FDu21BV2w40) [youtube📺]
   - [Use case или User story? Хватит выбирать - даешь все и сразу]( https://www.youtube.com/watch?v=KNsznqqcUgI) [youtube📺]
   - [Нефункциональные требования. Как не упустить качество продукта]( https://www.youtube.com/watch?v=IEWlrZcqXCw) [youtube📺]
+  - [Use cases.Что это такое и зачем они нужны?](https://systems.education/use-case) [статья📋]    
+
 
 ## Пирамида и уровни тестирования
 
