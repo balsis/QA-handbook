@@ -127,8 +127,6 @@
  - [NoSQL - коротко о главном / Сергей Туленцев (TextMaster)](https://www.youtube.com/watch?v=JG9Sgnj0xAI) [youtube📺]
  - [SQL ДЛЯ НАЧИНАЮЩИХ. Все, что нужно знать в SQL для аналитики (основные SQL запросы)](https://www.youtube.com/watch?v=Zf8M3xJaMEc) [youtube📺]
 
-
-
 ## Техники тест-дизайна
  - [Техники тест-дизайна: теория и примеры](https://testengineer.ru/tekhniki-test-dizajna-teoriya-i-primery/) [статья📋]
  - [Техники тест-дизайна и их предназначение](https://www.simbirsoft.com/blog/tekhniki-test-dizayna-i-ikh-prednaznachenie/) [статья📋]
@@ -237,11 +235,12 @@
  - [Что нужно знать про Postman: максимально коротко о Mock Servers, Flow и Visualize](https://habr.com/ru/company/rostelecom/blog/666766/) [статья📋] 
  - [Введение в Postman](https://habr.com/ru/company/kolesa/blog/351250/) [статья📋] 
 
-  4. Kafka
+  4. Брокеры сообщений
  - [Про Kafka (основы)]( https://www.youtube.com/watch?v=-AZOi3kP9Js) [youtube📺]  
  - [Apache Kafka урок 1. Зачем нужна, что это? RabbitMQ vs Kafka vs БД]( https://youtu.be/DvXPKUUl38w) [youtube📺]  
  - [Apache Kafka основы Урок 2. Что такое broker, consumer, producer, topic, partition и т.д.]( https://youtu.be/i8ULypfr6kM) [youtube📺]   
  - [Надежность Apache Kafka. Урок 3]( https://youtu.be/hY9WfVRVFPE) [youtube📺]  
+  - [Чем различаются Kafka и RabbitMQ: простыми словами]( https://habr.com/ru/company/innotech/blog/698838/ ) [статья📋] 
 
   5. Android Studio
   - [Android Studio]( https://itigic.com/ru/testing-applications-with-android-studio-development-mode/ ) [статья📋] 
