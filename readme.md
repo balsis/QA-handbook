@@ -222,7 +222,7 @@
  - [Как тестировать методы REST API
 ](https://habr.com/ru/post/704090/) [статья📋] 
  - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d) [статья📋] 
-
+https://dou.ua/forums/topic/31925/
 ## Инструменты 
   1. Jenkins
  - [Jenkins Pipeline. Что это и как использовать в тестировании](https://habr.com/ru/company/yoomoney/blog/538664/) [статья📋]
@@ -245,6 +245,11 @@
   5. Android Studio
   - [Android Studio]( https://itigic.com/ru/testing-applications-with-android-studio-development-mode/ ) [статья📋] 
 
-  6. Charles Proxy
+  6. ADB 
+
+  - [Android Debug Bridge (adb) – основные команды]( https://telegra.ph/Android-Debug-Bridge-adb-10-10 ) [статья📋] 
+  - [Android Debug Bridge для тестировщика без SMS и регистрации]( https://habr.com/ru/company/inDrive/blog/692998/ ) [статья📋] 
+
+  7. Charles Proxy
   - [Чарльз Прокси для мобильных устройств]( https://teletype.in/@kkkktgkrgtrw/TTPZgy8RG ) [статья📋]   
   - [Как использовать Charles]( https://trofimovdigital.ru/blog/how-to-use-charles ) [статья📋]   
