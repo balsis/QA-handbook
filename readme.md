@@ -34,7 +34,13 @@
  - [Сервис-ориентированная архитектура (SOA)](https://habr.com/ru/company/vk/blog/342526/) [статья📋]
  - [Микросервисы: как определить, подойдут ли они вашему проекту](https://www.simbirsoft.com/blog/mikroservisy-nachalo-raboty/) [статья📋]
 
-
+## Брокеры сообщений
+ - [Про Kafka (основы)]( https://www.youtube.com/watch?v=-AZOi3kP9Js) [youtube📺]  
+ - [Apache Kafka урок 1. Зачем нужна, что это? RabbitMQ vs Kafka vs БД]( https://youtu.be/DvXPKUUl38w) [youtube📺]  
+ - [Apache Kafka основы Урок 2. Что такое broker, consumer, producer, topic, partition и т.д.]( https://youtu.be/i8ULypfr6kM) [youtube📺]   
+ - [Надежность Apache Kafka. Урок 3]( https://youtu.be/hY9WfVRVFPE) [youtube📺]  
+  - [Чем различаются Kafka и RabbitMQ: простыми словами]( https://habr.com/ru/company/innotech/blog/698838/ ) [статья📋] 
+  
 ## REST API
  - [Введение в API, мини-курс](https://systems.education/api-intro) [статья📋]
  - [REST API Best Practices](https://habr.com/ru/post/351890/) [статья📋]
@@ -216,13 +222,19 @@
   - [Работа тестировщика (не) сказка? Разбираем зоны ответственности QA-экспертов в командах без СМС и регистрации](https://habr.com/ru/company/itq_group/blog/702738/) [статья📋]
   - [Почему многим IT-компаниям не хватает качественного руководства в QA?](https://habr.com/ru/company/otus/blog/710506/) [статья📋]
 
+https://pulse.mail.ru/article/testirovanie-istorij-3174963485291201689-2630252449310535070/?user_session_id=155b74563e3eb08&qid=2355358823d0a972&utm_referrer=https%3A%2F%2Fpulse.mail.ru&utm_source=MRG_Pulse&utm_content=source_only
+
+
 ## Тестирование API 
  - [Лучшие практики тестирования API](https://habr.com/ru/amp/post/670730/) [статья📋]  
  - [Стратегия тестирования REST API: что именно вам нужно тестировать?](https://habr.com/ru/post/568360/) [статья📋]  
  - [Как тестировать методы REST API
 ](https://habr.com/ru/post/704090/) [статья📋] 
  - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d) [статья📋] 
-https://dou.ua/forums/topic/31925/
+
+
+
+
 ## Инструменты 
   1. Jenkins
  - [Jenkins Pipeline. Что это и как использовать в тестировании](https://habr.com/ru/company/yoomoney/blog/538664/) [статья📋]
@@ -235,12 +247,9 @@ https://dou.ua/forums/topic/31925/
  - [Что нужно знать про Postman: максимально коротко о Mock Servers, Flow и Visualize](https://habr.com/ru/company/rostelecom/blog/666766/) [статья📋] 
  - [Введение в Postman](https://habr.com/ru/company/kolesa/blog/351250/) [статья📋] 
 
-  4. Брокеры сообщений
- - [Про Kafka (основы)]( https://www.youtube.com/watch?v=-AZOi3kP9Js) [youtube📺]  
- - [Apache Kafka урок 1. Зачем нужна, что это? RabbitMQ vs Kafka vs БД]( https://youtu.be/DvXPKUUl38w) [youtube📺]  
- - [Apache Kafka основы Урок 2. Что такое broker, consumer, producer, topic, partition и т.д.]( https://youtu.be/i8ULypfr6kM) [youtube📺]   
- - [Надежность Apache Kafka. Урок 3]( https://youtu.be/hY9WfVRVFPE) [youtube📺]  
-  - [Чем различаются Kafka и RabbitMQ: простыми словами]( https://habr.com/ru/company/innotech/blog/698838/ ) [статья📋] 
+  4. SOAPUI
+   - [Краткая инструкция по тестированию в SOAPUI для начинающих](https://dou.ua/forums/topic/31925/) [статья📋] 
+ - [Освоение тестирования SOAP API](https://quality-lab.ru/blog/soap-api-testing/) [статья📋] 
 
   5. Android Studio
   - [Android Studio]( https://itigic.com/ru/testing-applications-with-android-studio-development-mode/ ) [статья📋] 
