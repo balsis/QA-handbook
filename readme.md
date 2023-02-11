@@ -1,4 +1,3 @@
-
 ## Основы компьютерных сетей
  - [А.Созыкин - Курс "Компьютерные сети"](https://www.youtube.com/watch?v=OLFA0soYGhw&list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1) [youtube📺]
  - [Основы компьютерных сетей. Тема №1. Основные сетевые термины и сетевые модели](https://habr.com/ru/post/307252/) [статья📋]
@@ -62,9 +61,12 @@
  - [Тестирование GraphQL: подходы, инструменты, автоматизация](https://habr.com/ru/company/lineate/blog/598149/) [статья📋]
   - [Как тестировать GraphQL API? Гайд для начинающих](https://testengineer.ru/kak-testirovat-graphql-api/) [статья📋]
 - [Как тестировать GraphQL API](https://lineate.ru/how-tests-graphql) [статья📋]
+- [Сравнение архитектурных стилей API: SOAP vs REST vs GraphQL vs RPC](https://medium.com/nuances-of-programming/сравнение-архитектурных-стилей-api-soap-vs-rest-vs-graphql-vs-rpc-68855deb3f4) [статья📋]
+- [gRPC vs REST, что выбрать для нового сервера?](https://habr.com/ru/post/565020/) [статья📋]
+
+
 
 ## HTTP 
-
  - [HTTP](https://ru.wikipedia.org/wiki/HTTP) [статья📋]
  - [Руководство по HTTP для новичков](https://www.youtube.com/watch?v=iS-D5jZ_c24&t) [youtube📺]
  - [Как HTTP/2 сделает веб быстрее](https://habr.com/ru/company/nix/blog/304518/) [статья📋]
@@ -228,6 +230,8 @@
   - [Метрики тестирования, которые вы точно должны внедрить в процесс](https://habr.com/ru/company/innotech/blog/678380/) [статья📋]
   - [Самый полный список метрик тестирования на русском языке](https://habr.com/ru/post/546562/) [статья📋]
   - [Метрики в тестировании. Матрица трассировки]( https://www.youtube.com/watch?v=OyCnB2LvAtQ&t=667s) [youtube📺]
+  - [QA метрики подробно]( https://quality-lab.ru/wp-content/uploads/public/docs/qa-metrics.pdf) [статья📋]
+ 
 
 
 ## Тестирование API 
@@ -242,7 +246,9 @@
 
 
 
-## Инструменты 
+## Инструменты
+ - [Юлия Атлыгина — Инструменты тестировщика]( https://www.youtube.com/watch?v=-q_9oPRAxFo&t) [youtube📺]
+
   1. Jenkins
  - [Jenkins Pipeline. Что это и как использовать в тестировании](https://habr.com/ru/company/yoomoney/blog/538664/) [статья📋]
 
@@ -270,3 +276,7 @@
   - [Чарльз Прокси для мобильных устройств]( https://teletype.in/@kkkktgkrgtrw/TTPZgy8RG ) [статья📋]   
   - [Как использовать Charles]( https://trofimovdigital.ru/blog/how-to-use-charles ) [статья📋]   
  - [Charles Proxy meetup]( https://www.youtube.com/watch?v=gWhvVaoHh70) [youtube📺]  
+
+ 8. Git
+  - [git - the simple guide](  https://rogerdudler.github.io/git-guide/index.ru.html ) [статья📋] 
+
