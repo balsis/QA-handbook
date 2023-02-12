@@ -174,6 +174,10 @@
 ## Разное
   - [Респонсив или адаптив]( https://adindex.ru/publication/tools/2014/06/18/111597.phtml ) [статья📋]
   - [Программа самоподготовки младшего системного аналитика]( https://habr.com/ru/post/649435/ ) [статья📋]
+  - [Шпаргалка по Markdown](  https://trofimovdigital.ru/blog/markdown-guide ) [статья📋]
+
+
+ 
 
 ## Тестовая документация 
   
@@ -190,7 +194,7 @@
   - [Use case или User story? Хватит выбирать - даешь все и сразу]( https://www.youtube.com/watch?v=KNsznqqcUgI) [youtube📺]
   - [Нефункциональные требования. Как не упустить качество продукта]( https://www.youtube.com/watch?v=IEWlrZcqXCw) [youtube📺]
   - [Use cases.Что это такое и зачем они нужны?](https://systems.education/use-case) [статья📋]    
-
+  - [Use case vs User story]( https://www.youtube.com/watch?v=1cIy-qhqd-c) [youtube📺]
 
 ## Виды и уровни тестирования
 
@@ -259,6 +263,7 @@
   3. Postman
  - [Что нужно знать про Postman: максимально коротко о Mock Servers, Flow и Visualize](https://habr.com/ru/company/rostelecom/blog/666766/) [статья📋] 
  - [Введение в Postman](https://habr.com/ru/company/kolesa/blog/351250/) [статья📋] 
+ - [Пять примечательных функций Postman, которые мы используем в тестировании банковских систем](https://habr.com/ru/company/rshb/blog/715304/) [статья📋] 
 
   4. SOAPUI
    - [Краткая инструкция по тестированию в SOAPUI для начинающих](https://dou.ua/forums/topic/31925/) [статья📋] 
@@ -275,7 +280,7 @@
   7. Charles Proxy
   - [Чарльз Прокси для мобильных устройств]( https://teletype.in/@kkkktgkrgtrw/TTPZgy8RG ) [статья📋]   
   - [Как использовать Charles]( https://trofimovdigital.ru/blog/how-to-use-charles ) [статья📋]   
- - [Charles Proxy meetup]( https://www.youtube.com/watch?v=gWhvVaoHh70) [youtube📺]  
+  - [Charles Proxy meetup]( https://www.youtube.com/watch?v=gWhvVaoHh70) [youtube📺]  
 
  8. Git
   - [git - the simple guide](  https://rogerdudler.github.io/git-guide/index.ru.html ) [статья📋] 
