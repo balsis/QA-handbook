@@ -257,6 +257,8 @@
  - [Jenkins Pipeline. Что это и как использовать в тестировании](https://habr.com/ru/company/yoomoney/blog/538664/) [статья📋]
 
   2. Devtools
+ - [Гайд по DevTools: как открыть инструменты разработчика в браузере и чем они полезны](https://practicum.yandex.ru/blog/devtools-instrumenty-razrabotchika/) [статья📋] 
+  - [5 Chrome DevTools функций, которые вы должны знать ](https://dev-gang.ru/article/5-chrome-devtools-funkcii-kotorye-vy-dolzhny-znat-x1hd1j7uym/) [статья📋] 
  - [Как использовать Chrome DevTools при анализе сайта](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#7) [статья📋] 
  - [Инструменты отладки в Chrome DevTools (Андрей Соколов, DINS)]( https://www.youtube.com/watch?v=zzkX1LQPddk) [youtube📺]
 
