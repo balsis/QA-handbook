@@ -264,7 +264,9 @@
  - [Что нужно знать про Postman: максимально коротко о Mock Servers, Flow и Visualize](https://habr.com/ru/company/rostelecom/blog/666766/) [статья📋] 
  - [Введение в Postman](https://habr.com/ru/company/kolesa/blog/351250/) [статья📋] 
  - [Пять примечательных функций Postman, которые мы используем в тестировании банковских систем](https://habr.com/ru/company/rshb/blog/715304/) [статья📋] 
+ - [Авторизация при отправке API запросов (401 статус, token, authorization заголовок)]( https://www.youtube.com/watch?v=D5zoBVYdTlY) [youtube📺]
 
+https://www.youtube.com/watch?v=D5zoBVYdTlY
   4. SOAPUI
    - [Краткая инструкция по тестированию в SOAPUI для начинающих](https://dou.ua/forums/topic/31925/) [статья📋] 
  - [Освоение тестирования SOAP API](https://quality-lab.ru/blog/soap-api-testing/) [статья📋] 
@@ -278,9 +280,12 @@
   - [Android Debug Bridge для тестировщика без SMS и регистрации]( https://habr.com/ru/company/inDrive/blog/692998/ ) [статья📋] 
 
   7. Charles Proxy
+  - [Как приручить Charles Proxy?]( https://habr.com/ru/company/youla/blog/527648/ ) [статья📋]
   - [Чарльз Прокси для мобильных устройств]( https://teletype.in/@kkkktgkrgtrw/TTPZgy8RG ) [статья📋]   
   - [Как использовать Charles]( https://trofimovdigital.ru/blog/how-to-use-charles ) [статья📋]   
   - [Charles Proxy meetup]( https://www.youtube.com/watch?v=gWhvVaoHh70) [youtube📺]  
+  - [Битва Charles и Fiddler: как тестировать с комфортом?]( https://habr.com/ru/company/atisu/blog/583334/ ) [статья📋] 
+
 
  8. Git
   - [git - the simple guide](  https://rogerdudler.github.io/git-guide/index.ru.html ) [статья📋] 
