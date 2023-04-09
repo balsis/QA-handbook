@@ -171,11 +171,9 @@
  - [Тестирование сохраненных поисков](https://telegra.ph/Testirovanie-sohranennyh-poiskov-05-20 ) [статья📋]
  - [Тестирование безопасности мобильного приложения: стандартные кейсы при регрессе](https://software-testing.ru/library/testing/security/3893--security-testing-of-a-mobile-application) [статья📋]
  - [Разработка и тестирование мобильных дип линков (mobile deep links)](https://software-testing.ru/library/testing/mobile-testing/2837-mobile-deep-links) [статья📋]
- - [Мобильные приложения и их тестировщики: all you need to know] (https://habr.com/ru/company/tdb/blog/337234/) [статья📋]
  - [Нефункциональные проверки при тестировании мобильных приложений] (https://habr.com/ru/company/sbermarket/blog/707280/) [статья📋]
  - [Android Debug Bridge для тестировщика без SMS и регистрации] (https://habr.com/ru/company/inDrive/blog/692998/) [статья📋]
-
-
+ - [Проверка безопасности мобильных приложений] (https://dsec.ru/wp-content/uploads/2020/12/rukovodstvo-dlya-razrabotchikov.-proverka-bezopasnosti-mobilnyh-prilozhenij-new.pdf) [статья📋]
 
 
 ## Разное
@@ -293,6 +291,9 @@
 
   - [Android Debug Bridge (adb) – основные команды]( https://telegra.ph/Android-Debug-Bridge-adb-10-10 ) [статья📋] 
   - [Android Debug Bridge для тестировщика без SMS и регистрации]( https://habr.com/ru/company/inDrive/blog/692998/ ) [статья📋] 
+  - [ADB]( https://www.automatetheplanet.com/adb-cheat-sheet/#:~:text=ADB%2C%20Android%20Debug%20Bridge%2C%20is,run%20shell%20commands%2C%20and%20more ) [статья📋] 
+
+
 
   7. Charles Proxy
   - [Как приручить Charles Proxy?]( https://habr.com/ru/company/youla/blog/527648/ ) [статья📋]
